@@ -37,11 +37,11 @@
 <!-- /wp:heading -->
 
 <!-- wp:code -->
-<pre class="wp-block-code"><code>!git clone https://github.com/smartiden/Broadcast-Bitcoin-Transaction.git</code></pre>
+<pre class="wp-block-code"><code>!git clone https://github.com/smartibase/Broadcast-Bitcoin-Transaction.git</code></pre>
 <!-- /wp:code -->
 
 <!-- wp:image {"id":1205} -->
-<figure class="wp-block-image"><img src="https://polynonce.ru/wp-content/uploads/2024/10/image-2.png" alt="Broadcast Bitcoin Transaction" class="wp-image-1205"/></figure>
+<figure class="wp-block-image"><img src="https://polynonce.ru/wp-content/uploads/2024/10/image-10.png" alt="Broadcast Bitcoin Transaction" class="wp-image-1205"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
