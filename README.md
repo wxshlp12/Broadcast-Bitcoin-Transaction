@@ -32,6 +32,19 @@
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
+<!-- wp:paragraph -->
+<p>Let's open&nbsp;<strong><a href="https://colab.research.google.com/" target="_blank" rel="noreferrer noopener">Google Colab</a></strong>&nbsp;because this online service allows us to write and run Python code in the browser. It is especially useful for working with data, machine learning, and creating interactive educational materials.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://colab.research.google.com"><strong>https://colab.research.google.com</strong></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Clone the repository:</h3>
 <!-- /wp:heading -->
@@ -67,7 +80,23 @@ ls</code></pre>
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p>This command installs all dependencies listed in the&nbsp;&nbsp;<code>requirements.txt</code>. This file typically contains a list of Python libraries required for the project to work.</p>
+<p>This command installs all dependencies. This file usually contains a list of Python libraries required for the project to work.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>!python setup.py</code></pre>
+<!-- /wp:code -->
+
+<!-- wp:image {"id":1242} -->
+<figure class="wp-block-image"><img src="https://polynonce.ru/wp-content/uploads/2024/10/image-11-1024x493.png" alt="Broadcast Bitcoin Transaction" class="wp-image-1242"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>You can also run the installation of dependencies listed in the <code>requirements.txt</code>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:code -->
