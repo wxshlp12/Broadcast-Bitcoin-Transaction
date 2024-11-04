@@ -1,4 +1,4 @@
-# Decoder
+# DecodeRaw is a tool for the complete process of decoding RawTX in Bitcoin cryptocurrency
 
 <!-- wp:image {"linkDestination":"custom"} -->
 <figure class="wp-block-image"><a href="https://camo.githubusercontent.com/30d6ef66b633d6332f0bf19bafc0ef067b4c2ffb8d89870332c5a89f0383ce0e/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31302f696d6167652d392e706e67" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/30d6ef66b633d6332f0bf19bafc0ef067b4c2ffb8d89870332c5a89f0383ce0e/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31302f696d6167652d392e706e67" alt="DecodeRaw tool for decoding RawTX in Bitcoin cryptocurrency"/></a></figure>
