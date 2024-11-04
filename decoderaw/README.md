@@ -1,5 +1,7 @@
-<!-- wp:image {"id":1216} -->
-<figure class="wp-block-image"><img src="https://polynonce.ru/wp-content/uploads/2024/10/image-9.png" alt="DecodeRaw tool for decoding RawTX in Bitcoin cryptocurrency" class="wp-image-1216"/></figure>
+# Decoder
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/30d6ef66b633d6332f0bf19bafc0ef067b4c2ffb8d89870332c5a89f0383ce0e/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31302f696d6167652d392e706e67" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/30d6ef66b633d6332f0bf19bafc0ef067b4c2ffb8d89870332c5a89f0383ce0e/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31302f696d6167652d392e706e67" alt="DecodeRaw tool for decoding RawTX in Bitcoin cryptocurrency"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -11,6 +13,10 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
+<p><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/tree/main/decoderaw#what-is-rawtx"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p><strong><code>RawTX</code></strong>&nbsp;(raw transaction) is the raw format of a Bitcoin transaction that includes all the data needed to perform the transaction, but is not interpreted by the Bitcoin client. It is usually represented as a hexadecimal string.</p>
 <!-- /wp:paragraph -->
 
@@ -19,26 +25,34 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
+<p><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/tree/main/decoderaw#why-do-you-need-decoding"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>Decoding RawTX allows you to:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>Check transaction details</strong>&nbsp;: see sender and recipient addresses, amounts and other parameters.</li>
+<li><strong>Check transaction details</strong> : see sender and recipient addresses, amounts and other parameters.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>Debug transactions</strong>&nbsp;: Developers can use decoding to analyze and fix errors in their transactions.</li>
+<li><strong>Debug transactions</strong> : Developers can use decoding to analyze and fix errors in their transactions.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>Analyze security</strong>&nbsp;: Security researchers can look for vulnerabilities or anomalies in transaction structures.</li>
+<li><strong>Analyze security</strong> : Security researchers can look for vulnerabilities or anomalies in transaction structures.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">How does decoding happen?</h3>
 <!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/tree/main/decoderaw#how-does-decoding-happen"></a></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><strong>Receiving RawTX</strong>&nbsp;: First, you need to obtain the raw transaction, which can be received from a Bitcoin node or created manually.</p>
@@ -55,8 +69,8 @@ ls
 </code></pre>
 <!-- /wp:code -->
 
-<!-- wp:image {"id":1213} -->
-<figure class="wp-block-image"><img src="https://polynonce.ru/wp-content/uploads/2024/10/image-6.png" alt="DecodeRaw tool for decoding RawTX in Bitcoin cryptocurrency" class="wp-image-1213"/></figure>
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/e96f28e0d53fccef2897dfa7992018d662c0fdddc98a19c6086a069bec6adf90/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31302f696d6167652d362e706e67" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/e96f28e0d53fccef2897dfa7992018d662c0fdddc98a19c6086a069bec6adf90/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31302f696d6167652d362e706e67" alt="DecodeRaw tool for decoding RawTX in Bitcoin cryptocurrency"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
@@ -72,8 +86,8 @@ ls
 !./decoderaw</code></pre>
 <!-- /wp:code -->
 
-<!-- wp:image {"id":1214} -->
-<figure class="wp-block-image"><img src="https://polynonce.ru/wp-content/uploads/2024/10/image-7.png" alt="DecodeRaw tool for decoding RawTX in Bitcoin cryptocurrency" class="wp-image-1214"/></figure>
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/bd6da702a959c0f1ec71ec4ec59a240ef9e0e0c00b8e136cb5a6b052870e7d75/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31302f696d6167652d372e706e67" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/bd6da702a959c0f1ec71ec4ec59a240ef9e0e0c00b8e136cb5a6b052870e7d75/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31302f696d6167652d372e706e67" alt="DecodeRaw tool for decoding RawTX in Bitcoin cryptocurrency"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
@@ -89,8 +103,8 @@ ls
 </code></pre>
 <!-- /wp:code -->
 
-<!-- wp:image {"id":1215} -->
-<figure class="wp-block-image"><img src="https://polynonce.ru/wp-content/uploads/2024/10/image-8-1024x140.png" alt="DecodeRaw tool for decoding RawTX in Bitcoin cryptocurrency" class="wp-image-1215"/></figure>
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/8851156a3924aa0b2998744ac755359db9576a7ec7ac59bb219d335c7ec08ab7/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31302f696d6167652d382d31303234783134302e706e67" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/8851156a3924aa0b2998744ac755359db9576a7ec7ac59bb219d335c7ec08ab7/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31302f696d6167652d382d31303234783134302e706e67" alt="DecodeRaw tool for decoding RawTX in Bitcoin cryptocurrency"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
@@ -100,6 +114,10 @@ ls
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Result:</h2>
 <!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/tree/main/decoderaw#result"></a></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:code -->
 <pre class="wp-block-code"><code>Result:
@@ -122,6 +140,10 @@ ls
 <h3 class="wp-block-heading"><strong><code>RSZ</code></strong>&nbsp;consists of three components:</h3>
 <!-- /wp:heading -->
 
+<!-- wp:paragraph -->
+<p><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/tree/main/decoderaw#rszconsists-of-three-components"></a></p>
+<!-- /wp:paragraph -->
+
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
 <li><strong><code>R</code></strong>: This is a value that is part of the signature and is generated based on a random number chosen when signing.</li>
@@ -136,16 +158,12 @@ ls
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
 <!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>Source code:</strong>  <strong><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/tree/main/decoderaw" target="_blank" rel="noreferrer noopener">https://github.com/smartibase/Broadcast-Bitcoin-Transaction/tree/main/decoderaw</a></strong></p>
+<p><strong>Source code:</strong>&nbsp;<strong><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/tree/main/decoderaw">https://github.com/smartibase/Broadcast-Bitcoin-Transaction/tree/main/decoderaw</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
