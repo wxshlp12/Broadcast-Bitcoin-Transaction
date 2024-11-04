@@ -1,8 +1,6 @@
 # DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency
 
-<!-- wp:heading {"level":1} -->
-<h1 class="wp-block-heading">DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency</h1>
-<!-- /wp:heading -->
+
 
 <!-- wp:paragraph -->
 <p><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/darksignature/README.md#darksignature-is-a-tool-for-creating-fake-signature-values-in-bitcoin-cryptocurrency"></a></p>
