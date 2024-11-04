@@ -1,5 +1,13 @@
 # DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency
 
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/darksignature/README.md#darksignature-is-a-tool-for-creating-fake-signature-values-in-bitcoin-cryptocurrency"></a></p>
+<!-- /wp:paragraph -->
+
 <!-- wp:paragraph -->
 <p>There are many tools available on the internet to create fake signature values ​​in Bitcoin cryptocurrency, one of them is&nbsp;<a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/tree/main/darksignature"><strong>DarkSignature</strong></a></p>
 <!-- /wp:paragraph -->
@@ -14,8 +22,8 @@
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
-<!-- wp:image {"id":1250} -->
-<figure class="wp-block-image"><img src="https://polynonce.ru/wp-content/uploads/2024/11/image-1.png" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency" class="wp-image-1250"/></figure>
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/5b4a785b6cf63c46b1b7d04c3aec43d5aacd6e50b7cce77fce99b7f498ee4c4c/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d312e706e67" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/5b4a785b6cf63c46b1b7d04c3aec43d5aacd6e50b7cce77fce99b7f498ee4c4c/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d312e706e67" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
@@ -32,8 +40,8 @@
 ls</code></pre>
 <!-- /wp:code -->
 
-<!-- wp:image {"id":1249} -->
-<figure class="wp-block-image"><img src="https://polynonce.ru/wp-content/uploads/2024/11/image.png" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency" class="wp-image-1249"/></figure>
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/bf8514439d8042a1e5b7d3be825efa9093d5f29d4e383ffeb1112af1d0bda7b1/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652e706e67" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/bf8514439d8042a1e5b7d3be825efa9093d5f29d4e383ffeb1112af1d0bda7b1/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652e706e67" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
@@ -49,8 +57,8 @@ ls</code></pre>
 !./darksignature</code></pre>
 <!-- /wp:code -->
 
-<!-- wp:image {"id":1251} -->
-<figure class="wp-block-image"><img src="https://polynonce.ru/wp-content/uploads/2024/11/image-2.png" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency" class="wp-image-1251"/></figure>
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/a73ef95d7b258a729b170ddc2204023d3a0197f42cfbb43d01c5aca31149457c/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d322e706e67" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/a73ef95d7b258a729b170ddc2204023d3a0197f42cfbb43d01c5aca31149457c/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d322e706e67" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
@@ -65,13 +73,17 @@ ls</code></pre>
 <pre class="wp-block-code"><code>!./darksignature -address 14NWDXkQwcGN1Pd9fboL8npVynD5SfyJAE</code></pre>
 <!-- /wp:code -->
 
-<!-- wp:image {"id":1252} -->
-<figure class="wp-block-image"><img src="https://polynonce.ru/wp-content/uploads/2024/11/image-3-1024x83.png" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency" class="wp-image-1252"/></figure>
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/b50490d804a71779e544cb6eb9efb346bbda3f49baff85459511be9c500bbb15/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d332d313032347838332e706e67" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/b50490d804a71779e544cb6eb9efb346bbda3f49baff85459511be9c500bbb15/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d332d313032347838332e706e67" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Result:</h3>
 <!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/darksignature/README.md#result"></a></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:code -->
 <pre class="wp-block-code"><code>pubkey: (HEX) = 04ca5606a1e820e7a2f6bb3ab090e8ade7b04a7e0b5909a68dda2744ae3b8ecbfa280a47639c811134d648e8ee8096c33b41611be509ebca837fbda10baaa1eb15</code></pre>
@@ -89,8 +101,8 @@ ls</code></pre>
 <pre class="wp-block-code"><code>!pip install ecdsa</code></pre>
 <!-- /wp:code -->
 
-<!-- wp:image {"id":1253} -->
-<figure class="wp-block-image"><img src="https://polynonce.ru/wp-content/uploads/2024/11/image-4-1024x121.png" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency" class="wp-image-1253"/></figure>
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/2dcbf66dbbf58ebc07bdd0912caa6b2cd4c89d89da4e7705d8d72a4b7e55d39c/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d342d31303234783132312e706e67" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/2dcbf66dbbf58ebc07bdd0912caa6b2cd4c89d89da4e7705d8d72a4b7e55d39c/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d342d31303234783132312e706e67" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
@@ -132,13 +144,17 @@ print(f"(Gx, Gy) = {Gx} {Gy}")
 </code></pre>
 <!-- /wp:code -->
 
-<!-- wp:image {"id":1254} -->
-<figure class="wp-block-image"><img src="https://polynonce.ru/wp-content/uploads/2024/11/image-5-1024x466.png" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency" class="wp-image-1254"/></figure>
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/52ca28ba7e0de6d044eaf51a694c0bf4ecd313715fd4e36b296b4efa6335f191/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d352d31303234783436362e706e67" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/52ca28ba7e0de6d044eaf51a694c0bf4ecd313715fd4e36b296b4efa6335f191/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d352d31303234783436362e706e67" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Result:</h3>
 <!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/darksignature/README.md#result-1"></a></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:code -->
 <pre class="wp-block-code"><code>pubkey: 04ca5606a1e820e7a2f6bb3ab090e8ade7b04a7e0b5909a68dda2744ae3b8ecbfa280a47639c811134d648e8ee8096c33b41611be509ebca837fbda10baaa1eb15
@@ -159,13 +175,17 @@ print(f"(Gx, Gy) = {Gx} {Gy}")
 </code></pre>
 <!-- /wp:code -->
 
-<!-- wp:image {"id":1255} -->
-<figure class="wp-block-image"><img src="https://polynonce.ru/wp-content/uploads/2024/11/image-6-1024x102.png" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency" class="wp-image-1255"/></figure>
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/56bfdfc3d0d20d691c86757d06758341e8c99d9e8baa393e62daa56998121bf8/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d362d31303234783130322e706e67" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/56bfdfc3d0d20d691c86757d06758341e8c99d9e8baa393e62daa56998121bf8/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d362d31303234783130322e706e67" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Result:</h3>
 <!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/darksignature/README.md#result-2"></a></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:code -->
 <pre class="wp-block-code"><code>|==========================================================================================================================================================================================================|
@@ -187,8 +207,8 @@ pubkey: (Gx , Gy) = (91519190036866233587583752863966343541024156557754641198598
 </code></pre>
 <!-- /wp:code -->
 
-<!-- wp:image {"id":1256} -->
-<figure class="wp-block-image"><img src="https://polynonce.ru/wp-content/uploads/2024/11/image-7-1024x57.png" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency" class="wp-image-1256"/></figure>
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/f52a4ed9aa89086354ade3c6c44c7441af290c38103ce01131ab5072a17c493a/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d372d313032347835372e706e67" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/f52a4ed9aa89086354ade3c6c44c7441af290c38103ce01131ab5072a17c493a/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d372d313032347835372e706e67" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
@@ -196,20 +216,24 @@ pubkey: (Gx , Gy) = (91519190036866233587583752863966343541024156557754641198598
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p>Run the&nbsp;<a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/darksignature/calculatenonce.py" target="_blank" rel="noreferrer noopener"><strong>calculatenonce.py</strong></a>&nbsp;script to get the&nbsp;<strong>Secret Key NONCE</strong>&nbsp;value in HEX format</p>
+<p>Run the&nbsp;<a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/darksignature/calculatenonce.py"><strong>calculatenonce.py</strong></a>&nbsp;script to get the&nbsp;<strong>Secret Key NONCE</strong>&nbsp;value in HEX format</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:code -->
 <pre class="wp-block-code"><code>!python calculatenonce.py</code></pre>
 <!-- /wp:code -->
 
-<!-- wp:image {"id":1257} -->
-<figure class="wp-block-image"><img src="https://polynonce.ru/wp-content/uploads/2024/11/image-8.png" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency" class="wp-image-1257"/></figure>
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/8d79714b10e5d3d62c74498a89e9575124ea5cf9be7506d35bab23b62d459d73/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d382e706e67" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/8d79714b10e5d3d62c74498a89e9575124ea5cf9be7506d35bab23b62d459d73/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d382e706e67" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Result:</h3>
 <!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/darksignature/README.md#result-3"></a></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:code -->
 <pre class="wp-block-code"><code>Secret Key  NONCE:  db7bbcb93e3fb5259c5035c6321134b60b8b5afb37cff08641ce3ebbf8e1a95c
@@ -225,6 +249,10 @@ Signatere R value:  dc2e5e1104d74ace769d2c51901b6a6237c723a56aa4a295ea37ad826d0d
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
+<p><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/darksignature/README.md#secret-key-nonce"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p><strong>Secret Key&nbsp;</strong>&nbsp;<strong>(NONCE)</strong>&nbsp;is a value in cryptography that is used to encrypt and sign data. In the context of Bitcoin, the secret key allows the user to control their&nbsp;<strong>BTC</strong>&nbsp;coins .</p>
 <!-- /wp:paragraph -->
 
@@ -236,13 +264,17 @@ Signatere R value:  dc2e5e1104d74ace769d2c51901b6a6237c723a56aa4a295ea37ad826d0d
 <pre class="wp-block-code"><code>!./darksignature -privkey db7bbcb93e3fb5259c5035c6321134b60b8b5afb37cff08641ce3ebbf8e1a95c</code></pre>
 <!-- /wp:code -->
 
-<!-- wp:image {"id":1258} -->
-<figure class="wp-block-image"><img src="https://polynonce.ru/wp-content/uploads/2024/11/image-9-1024x73.png" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency" class="wp-image-1258"/></figure>
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/d37f551552405da7147c47dfcc4428ad886a02f8de669006798b668aa1ac3cc2/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d392d313032347837332e706e67" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/d37f551552405da7147c47dfcc4428ad886a02f8de669006798b668aa1ac3cc2/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d392d313032347837332e706e67" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Result:</h3>
 <!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/darksignature/README.md#result-4"></a></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:code -->
 <pre class="wp-block-code"><code>pubkey: (HEX) = 04dc2e5e1104d74ace769d2c51901b6a6237c723a56aa4a295ea37ad826d0ddfbb384139c65187ffece2e0c880f013cb69ede7d9078ef6c68d1eafbec50ec05502</code></pre>
@@ -257,16 +289,24 @@ Signatere R value:  dc2e5e1104d74ace769d2c51901b6a6237c723a56aa4a295ea37ad826d0d
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
+<p><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/darksignature/README.md#signatere-r-value--pubkey-hex"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>Let's check if the&nbsp;<strong>R</strong>&nbsp;value of the signature and the&nbsp;<strong>Gx</strong>&nbsp;coordinate of the public key are the same, then the Bitcoin transaction signature is valid.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1259} -->
-<figure class="wp-block-image"><img src="https://polynonce.ru/wp-content/uploads/2024/11/image-10-1024x113.png" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency" class="wp-image-1259"/></figure>
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/181d1cf043e1071edfd788ef65b00c5c1fd73f5cf8d29e1e2a83aa128e7d0970/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d31302d31303234783131332e706e67" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/181d1cf043e1071edfd788ef65b00c5c1fd73f5cf8d29e1e2a83aa128e7d0970/68747470733a2f2f706f6c796e6f6e63652e72752f77702d636f6e74656e742f75706c6f6164732f323032342f31312f696d6167652d31302d31303234783131332e706e67" alt="DarkSignature is a tool for creating fake signature values ​​in Bitcoin cryptocurrency"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Result:</h3>
 <!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/darksignature/README.md#result-5"></a></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:code -->
 <pre class="wp-block-code"><code>  dc2e5e1104d74ace769d2c51901b6a6237c723a56aa4a295ea37ad826d0ddfbb
@@ -286,13 +326,7 @@ Signatere R value:  dc2e5e1104d74ace769d2c51901b6a6237c723a56aa4a295ea37ad826d0d
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>Source code:&nbsp;<a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/tree/main/darksignature" target="_blank" rel="noreferrer noopener">https://github.com/smartibase/Broadcast-Bitcoin-Transaction/tree/main/darksignature</a></strong></p>
+<p><strong>Source code:&nbsp;<a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/tree/main/darksignature">https://github.com/smartibase/Broadcast-Bitcoin-Transaction/tree/main/darksignature</a></strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:paragraph -->
-<p><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpolynonce.ru%2Fdarksignature%2F" target="_blank" rel="noreferrer noopener"></a><a href="http://twitter.com/share?url=https%3A%2F%2Fpolynonce.ru%2Fdarksignature%2F&amp;text=DarkSignature%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8%20%D0%B2%20%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D0%B5%20%D0%91%D0%B8%D1%82%D0%BA%D0%BE%D0%B9%D0%BD" target="_blank" rel="noreferrer noopener"></a><a href="mailto:?subject=DarkSignature%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8%20%D0%B2%20%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D0%B5%20%D0%91%D0%B8%D1%82%D0%BA%D0%BE%D0%B9%D0%BD&amp;body=https%3A%2F%2Fpolynonce.ru%2Fdarksignature%2F" target="_blank" rel="noreferrer noopener"></a><a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fpolynonce.ru%2Fdarksignature%2F&amp;title=DarkSignature%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8%20%D0%B2%20%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D0%B5%20%D0%91%D0%B8%D1%82%D0%BA%D0%BE%D0%B9%D0%BD" target="_blank" rel="noreferrer noopener"></a><a href="https://telegram.me/share/url?url=https%3A%2F%2Fpolynonce.ru%2Fdarksignature%2F&amp;text&amp;title=DarkSignature%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8%20%D0%B2%20%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D0%B5%20%D0%91%D0%B8%D1%82%D0%BA%D0%BE%D0%B9%D0%BD" target="_blank" rel="noreferrer noopener"></a><a href="javascript:pinIt();"></a><a href="javascript:window.print()"></a></p>
-<!-- /wp:paragraph -->
+---
